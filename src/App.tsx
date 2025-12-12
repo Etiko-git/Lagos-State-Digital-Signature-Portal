@@ -73,8 +73,8 @@ export default function LagosSignaturePortalApp() {
           <div className="flex items-center gap-3">
             <div
   style={{
-    height: "70px",
-    width: "70px",
+    height: "80px",
+    width: "80px",
     borderRadius: "50%",
     backgroundColor: "white",
     display: "flex",
@@ -88,8 +88,8 @@ export default function LagosSignaturePortalApp() {
     src="/img/lagos2.jpg"
     alt="Lagos Logo"
     style={{
-      width: "70px",
-      height: "70px",
+      width: "80px",
+      height: "80px",
       objectFit: "cover",
     }}
   />
