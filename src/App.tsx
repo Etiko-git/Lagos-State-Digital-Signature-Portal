@@ -88,8 +88,7 @@ export default function LagosSignaturePortalApp() {
     src="/img/lagos2.jpg"
     alt="Lagos Logo"
     style={{
-      width: "80px",
-      height: "80px",
+      
       objectFit: "cover",
     }}
   />
